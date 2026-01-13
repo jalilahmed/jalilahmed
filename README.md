@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **jalilahmed/jalilahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm [Jalil](jalilahmed.github.io), Machine Learning Scientist focused on building robust, generalizable deep learning systems for real-world and regulated environments, primarily in imaging.
+
+I work across the full ML lifecycle: problem formulation, experimental design, model development, and deployment under practical constraints. My recent work emphasizes why models work (or fail)—with particular interest in generalization, robustness, uncertainty, and physics-informed learning.
+
+Tools
+Python, PyTorch, TensorFlow, computer vision pipelines, ML experimentation tooling, and production-oriented workflows. Frontend and systems experience when needed—used pragmatically, not for novelty.
+This GitHub contains research prototypes, experiments, and selected engineering work. Not everything here is polished; some repositories exist to document ideas, failures, and trade-offs rather than finished products.
