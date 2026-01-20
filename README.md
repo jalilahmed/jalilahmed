@@ -19,8 +19,9 @@ I'm [Jalil](jalilahmed.github.io), a Machine Learning Reseacher focused on build
 
 I work across the full ML lifecycle: problem formulation, experimental design, model development, and deployment under practical constraints. My interests are in understanding why models work (or fail)—with particular interest in generalization, robustness, uncertainty, and physics-informed learning.
 
-Tools
-Python, PyTorch, TensorFlow, computer vision pipelines, ML experimentation tooling, and production-oriented workflows. Frontend and systems experience when needed—used pragmatically, not for novelty.
+### Tools:
+
+Python, PyTorch, TensorFlow, computer vision pipelines, ML experimentation tooling, and production-oriented workflows. Frontend and systems experience when needed are used pragmatically, not for novelty.
 
 
 **Note**: *This GitHub contains research prototypes, experiments, and selected engineering work. Not everything here is polished; some repositories exist to document ideas, failures, and trade-offs rather than finished products.*
